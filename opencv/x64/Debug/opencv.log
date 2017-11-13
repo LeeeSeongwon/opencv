@@ -1,0 +1,6 @@
+﻿main.obj : error LNK2019: "public: bool __cdecl List::findOut(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?findOut@List@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: "public: bool __cdecl List::deleteByKeyword(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?deleteByKeyword@List@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: "public: void __cdecl List::addOneList(class CSearchHistory)" (?addOneList@List@@QEAAXVCSearchHistory@@@Z) 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: "public: void __cdecl List::AddAll(class List &,class List &)" (?AddAll@List@@QEAAXAEAV1@0@Z) 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: "public: void __cdecl List::FindAndShowImage(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?FindAndShowImage@List@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+C:\Users\Lee seong won\Documents\Visual Studio 2015\projects\opencv\x64\Debug\opencv.exe : fatal error LNK1120: 5개의 확인할 수 없는 외부 참조입니다.
